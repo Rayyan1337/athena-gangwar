@@ -1,0 +1,40 @@
+{
+    "WEAPON_REVOLVER": {
+        "components": [
+            {
+                "name": "body",
+                "hash": -1802258419
+            },
+            {
+                "name": "vip",
+                "hash": 384708672
+            },
+            {
+                "name": "body",
+                "hash": -1802258419
+            }
+        ]
+    },
+    "WEAPON_SPECIALCARBINE_MK2": {
+        "components": [
+            {
+                "name": "fire",
+                "hash": -570355066
+            }
+        ]
+    },
+    "WEAPON_MARKSMANRIFLE": {
+        "components": []
+    },
+    "WEAPON_GUSENBERG": {
+        "components": []
+    },
+    "WEAPON_REVOLVER_MK2": {
+        "components": [
+            {
+                "name": "fire",
+                "hash": 15712037
+            }
+        ]
+    }
+}
